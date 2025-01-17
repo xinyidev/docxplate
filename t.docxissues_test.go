@@ -3,7 +3,7 @@ package docxplate_test
 import (
 	"testing"
 
-	"github.com/bobiverse/docxplate"
+	"github.com/xinyidev/docxplate"
 )
 
 func TestIssues(t *testing.T) {

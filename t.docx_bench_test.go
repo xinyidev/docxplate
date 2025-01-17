@@ -4,7 +4,7 @@ import (
 	"log"
 	"testing"
 
-	"github.com/bobiverse/docxplate"
+	"github.com/xinyidev/docxplate"
 )
 
 func BenchmarkLists100(b *testing.B) {

@@ -5,7 +5,7 @@ import (
 	"strings"
 	"testing"
 
-	"github.com/bobiverse/docxplate"
+	"github.com/xinyidev/docxplate"
 )
 
 func TestFormatters(t *testing.T) {

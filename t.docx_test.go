@@ -7,7 +7,7 @@ import (
 	"strings"
 	"testing"
 
-	"github.com/bobiverse/docxplate"
+	"github.com/xinyidev/docxplate"
 )
 
 // Using this data for all examples below
