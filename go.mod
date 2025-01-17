@@ -1,4 +1,4 @@
-module github.com/bobiverse/docxplate
+module github.com/xinyidev/docxplate
 
 go 1.22.4
 
